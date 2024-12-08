@@ -32,7 +32,7 @@
 ### Установка
 
 ```
-git clone https://github.com/Zhassulan1/Parking.git
+git clone https://github.com/erapredator/ALAPARK.git
 cd frontend && npm install && (ng serve | npm start)
 cd parking_back && cd Frontend && myvenv\scripts\activate:  
 pip install -r requirements.txt
